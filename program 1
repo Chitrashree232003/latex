@@ -1,0 +1,13 @@
+\documentclass[a4 paper,12pt]{article}
+\usepackage[top=20mm,bottom=20mm,left=20mm,right=20mm]{geometry}
+\title{introduction to latex}
+\author{fiua karmali}
+\date{\today}
+\begin{document}
+\begin{abstract}
+\textbf{simple summary about latex}\\
+LaTeX was created to make it easier to produce general-purpose books and articles within TeX. Because LaTeX is an extension to the TeX typesetting system, it has TeX's ability to typeset technical documents that contain complex mathematical equations. This feature made LaTeX popular with scientists and engineers.
+    
+\end{abstract}
+
+\end{document}
