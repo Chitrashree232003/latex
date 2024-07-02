@@ -1,0 +1,47 @@
+\documentclass[a4 paper,12pt]{article}
+\usepackage{graphicx}
+\usepackage{geometry}
+%\usepackage{tikz}
+%\usetikzlibrary{calc}
+%\usepackage{calc}
+\usepackage{xcolor}
+\geometry{a4 paper,total={180mm,250mm},left=20mm,top=20mm}
+\begin{document}
+\begin{center}
+    \textcolor{orange}{\large\textbf{VISVESVARAYA TECHNOLOGICAL UNIVERSITY}}\\
+    "Jnana sangama"'Belagavi-560014,Karnataka}\\
+    \vspace{2mm}
+    \includegraphics[scale=0.4]{}\\
+    \vspace{2mm}
+    \textcolor{red}{A REPORT}\\
+    \textcolor{red}{ON}\\
+    \textcolor{orange}{\textbf{SOCIAL CONNECT AND RESPONSIBILITY ACTIVITIES}}\\
+    \small{submitted in partial fulfillment of the requirements for the award of degree of}\\
+    \vspace{5mm}
+    \textcolor{green}{\textbf{BACHELOR OF ENGINEERING}}\\
+IN\\
+\textbf{INFORMATION SCIENCE AND ENGINEERING}\\
+\vspace{5MM}
+\textcolor{blue}{\underline{submitted by}}\\
+\textbf{NAME:CHITRA SHREE}\\
+\textbf{USN:1CG22IS060}\\
+\vspace{5mm}
+\textcolor{cyan}{\underline{{\textbf{under the guidance of}}}}\\
+\large\textbf{professor name}\\
+assistant professor\\
+dept of ISE\\
+\centering\includegraphics[scale=0.3]{logo.jpg}\\
+\textcolor{blue}{\textbf{department of information science and engineering}}\\
+\textcolor{red}{\textbf{CHANNABASAVESHWARA INSTITUTE OF ENGINEERING AND TECHNOLOGY }}\\
+(AffiatedtoVisvesvaraya technological university)\\
+gubbi road, tumakuru-572104, karanataka\\
+2024-2025
+    
+    
+\end{center}
+\end{document}\begin{figure}
+    \centering
+    \includegraphics[width=0.5\linewidth]{VTU jpg.webp}
+    \caption{Enter Caption}
+    \label{fig:enter-label}
+\end{figure}
